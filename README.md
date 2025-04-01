@@ -18,3 +18,6 @@ how to use
   DrawFuction(f,COLOR)
 
 ```
+
+![image](https://github.com/user-attachments/assets/986cdc02-c59e-45cb-94f1-4a8c00e2a609)
+
