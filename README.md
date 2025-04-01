@@ -2,7 +2,7 @@
 
 Simple gtaphing calculator made in c++, with raylib
 
-suport for simple c++ fuctions (sin,cos,sqrt,pow) and custom dirived fuction
+suport for simple c++ fuctions (sin,cos,sqrt,pow) and custom fuction
 
 how to use
 
